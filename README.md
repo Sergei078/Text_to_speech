@@ -8,6 +8,8 @@
 ## Используемые библиотеки
 ![PyPI - Version](https://img.shields.io/pypi/v/aiogram?style=flat&label=aiogram&labelColor=red&color=green)<br>
 ![PyPI - Version](https://img.shields.io/pypi/v/requests?style=flat&label=requests&labelColor=red&color=green)<br>
+![PyPI - Version](https://img.shields.io/pypi/v/python-dotenv?label=python-dotenv&labelColor=red&color=green)<br>
+
 
 ## Как запустить проект у себя
 Вам нужно иметь версию Pytnon 3.12(Последняя версия). Установить все необходимые библиотеки:<br>
@@ -19,6 +21,10 @@
   ```
   pip install requests
   ```
+3. Установить python-dotenv
+ ```
+ pip install python-dotenv
+ ```
 **Дополнительные библиотеки которые есть в проекте, предварительно устанавливать не нужно, их нужно только импортировать.**
 ## Файл .env
 *Создать обычный файл дать название .env*<br>
